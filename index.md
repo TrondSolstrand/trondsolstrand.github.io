@@ -7,4 +7,4 @@ Hello world!
 
 **Fet tekst?**
 
-__underscore__
+*italic?*
